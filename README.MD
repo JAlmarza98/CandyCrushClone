@@ -10,5 +10,6 @@ But if u dont want to clone the repo, here is a [live demo](https://jalmarza98.g
 
 ## Sample Images 📦
 
-![web version](img/readme/desktop.PNG)
-![mobile version](img/readme/mobile.PNG)
+Web View            |  Mobile View
+:-------------------------:|:-------------------------:
+![web version](images/readme/desktop.PNG)  |  ![mobile version](images/readme/mobile.PNG)
